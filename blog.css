@@ -42,3 +42,7 @@ background-position: center;
 background-repeat: repeat-y;
 
 }
+body{
+
+ masonry-auto-flow: 100px;
+}
