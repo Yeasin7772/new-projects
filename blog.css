@@ -1,6 +1,7 @@
 h3{
     height: 50px; 
   text-align: center;
+  font-size: xx-large;
   
   color: aqua;
   padding: 20px;
@@ -41,8 +42,4 @@ background-size: cover;
 background-position: center;
 background-repeat: repeat-y;
 
-}
-body{
-
- masonry-auto-flow: 100px;
 }
