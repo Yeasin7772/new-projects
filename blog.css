@@ -1,0 +1,44 @@
+h3{
+    height: 50px; 
+  text-align: center;
+  
+  color: aqua;
+  padding: 20px;
+  background-color: burlywood;
+  border: solid;
+
+
+
+
+}
+p{
+    height: 600px;
+  padding: 250px;
+    font-size: x-large;
+    color: blue;
+    
+
+
+
+
+}
+.row1{
+    
+background-image: url(image/cat.jpg);
+background-color: chocolate;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+
+
+}
+
+
+.row2{
+background-image: url(image/new\ photo.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: repeat-y;
+
+}
